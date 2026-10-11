@@ -1,0 +1,1 @@
+{ "name": "guardrails", "version": "0.1.0", "description": "Blocks destructive commands and edits to secret files, with a toast saying why.", "author": { "name": "Thomas" } }
